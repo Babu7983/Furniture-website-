@@ -1,0 +1,162 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: ghostwhite;
+}
+header{
+  display: flex;
+  justify-content: space-around;
+  background-color: deepskyblue;
+  color: orangered;
+  font-size: 4em;
+  width: 100vw;
+}
+.menu{
+  color: white;
+}
+td{
+  text-align: center;
+  width: 25%;
+  height: 50px;
+  background-color: greenyellow;
+  font-size: 30px;
+  font-weight: bold ;
+  font-family: sans-serif;
+  color: red;
+}
+footer{
+  width: 100%;
+  height: 30%;
+  font-size: 20px;
+  font-weight: bold;
+}
+marquee{
+  color: red;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+fieldset{
+  padding: 30px;
+  margin: 30px;
+}
+legend{
+  font-size: 60px;
+  color: deeppink;
+  font-weight: 20px;
+  font-style: bold;
+  font-family: sans-serif;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.A{
+  color:red;
+  text-decoration: none;
+}
+.A:hover{
+  border: 2px solid red;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+/*photos page*/
+ .table{
+   width: 100%;
+   height: 400%;
+   border: solid 3px darkgray;
+ }
+ .g{
+   width: 100%;
+   height: 50%;
+   border: solid 1px black;
+ }
+ .d{
+   width: 25%;
+   height: 50%;
+   border: solid 1px black ;
+   background-color: white ;
+   
+ }
+
+
+
+/*About page*/
+
+.Us{
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  font-weight: 4px;
+  font-family: sans-serif;
+}
+.the{
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  font-weight: 4px;
+  font-family: sans-serif;
+}
+.gaur{
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  font-weight: 4px;
+  font-family: sans-serif;
+}
+.one{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.can{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.all{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.two{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.three{
+  width: auto;
+  height: auto;
+  padding: 30px;
+  margin: 10px;
+  border: solid 2px black;
+}
+.five{
+  width: auto;
+  height: auto;
+  padding: 30px;
+  margin: 10px;
+  border: solid 2px black;
+}
+/*Contact page*/
+
+.C{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.pre{
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: black;
+}
+.color{
+  background-color: lightgrey;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 30px;
+}
